@@ -4,6 +4,8 @@
 # DiscGolf
 
 <!-- badges: start -->
+
+![R-CMD-check](https://github.com/nicholasjhorton/DiscGolf/workflows/R-CMD-check/badge.svg)
 <!-- badges: end -->
 
 The goal of DiscGolf is to tell people about these great discs!
