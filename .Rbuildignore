@@ -2,5 +2,6 @@
 ^\.Rproj\.user$
 ^LICENSE\.md$
 ^data-raw$
+^DiscGolf_files$
 ^README\.Rmd$
 ^\.github$
