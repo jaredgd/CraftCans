@@ -7,7 +7,8 @@ Authors@R:
            role = c("aut", "cre"),
            email = "nhorton@amherst.edu",
            comment = c(ORCID = "0000-0003-3332-4311"))
-Description: This is a sample Data Package from Amherst College STAT495
+Description: This is a sample Data Package from Amherst College STAT495.
+  It provides access to some flying discs.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
