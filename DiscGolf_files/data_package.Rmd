@@ -1,7 +1,7 @@
 ---
 title: "Creating a data package"
 author: "Nicholas Horton (nhorton@amherst.edu)"
-date: "October 27, 2020"
+date: "October 30, 2020"
 output: 
   pdf_document:
     fig_height: 3
@@ -20,7 +20,6 @@ library(mosaic)
 library(tidyverse)
 library(mosaic)
 library(mdsr)
-library(mixtools)
 knitr::opts_chunk$set(
   tidy=FALSE,     # display code as typed
   size="small")   # slightly smaller font for code
@@ -32,7 +31,7 @@ knitr::opts_chunk$set(
 
 The goals of this file is to describe how to create a data package using the data from the DiscGolf example I created.
 
-1. Please ensure that you have the files in the DiscGolf_files folder within the `week10` folder.  
+1. Please ensure that you have the files in the DiscGolf_files folder.
 
 2. Confirm that you've successfully installed a personal access token by running:
 
@@ -40,10 +39,13 @@ The goals of this file is to describe how to create a data package using the dat
 
 This should display information about your Personal access token value (if <unset> then you need to follow the instructions to add this to your `.REnviron` file).
 
+3. Create a new project ("new package with devtools") called `DiscGolf`.
 
-3. Create a new project ("new package with devtools") called `DiscGolf`.  Be sure to confirm that you are seeing both a "Build" tab and a "Git" tab.
+4.  Run `usethis::use_git()` to set up Git connectiona and add other files.
+Be sure to confirm that you are seeing both a "Build" tab and a "Git" tab.
+If no "Git" tab appears please open "Tools" / "Project Options" / "Version Control" and ensure that "Git is selected.
 
-4. Edit the `DESCRIPTION` file with your information (see the DESCRIPTION file I've provided for an example)
+5. Edit the `DESCRIPTION` file with your information (see the DESCRIPTION file I've provided for an example) and save the file.
 
 ```
 Title: Flying objects officially approved for use in competition
@@ -58,15 +60,15 @@ Description: Everything you might want to know about Disc Golf flying objects.
 ```
 
 
-5. Save your changes to the `DESCRIPTION` file then run:
+6. Configure a license.  Run:
 
   `options(usethis.full_name = "YOUR NAME")`
 
   `usethis::use_mit_license()`
 
-6. Run `usethis::use_data_raw()` to create the `data-raw` folder
+7. Run `usethis::use_data_raw()` to create the `data-raw` folder.
 
-7. Open the data-raw folder and DATASET.R then replace with contents of wrangling commands from the DATASET.R file I've provided.  Save this modified file.
+8. Open the data-raw folder and DATASET.R then replace with contents of wrangling commands from the DATASET.R file I've provided.  Save this modified file.
 
 ```
 library(tidyverse)
@@ -93,12 +95,11 @@ DiscGolf <-
 usethis::use_data(DiscGolf)
 ```
 
-8. Use the "Session" menu to change "working directory" to "source file location", then run 
-"source" on the `DATASET.R` file.
+9. Use the "Session" menu to change "working directory" to "source file location", then run "source" on the `DATASET.R` file.  This should run the commands in that file and add the newly created native R file into the package.
 
-9. Check that the `data` folder now contains the data `DiskGolf.rda`.
+10. Check that the `data` folder now contains the data `DiskGolf.rda`.
 
-10. Copy the `DiscGolf.R` file (documentation that I've provided) to the R folder
+11. Copy the `DiscGolf.R` file (documentation that I've provided) to the R folder
 
 ```
 #' Discs for Disc Golf
@@ -134,9 +135,7 @@ NULL
 ```
 
 
-11. Commit all of these files (see the "Git" tab)
-
-12. Run `usethis::use_git()` to add other files
+12. Commit all of these files (see the "Git" tab).
 
 13. Run `usethis::use_github()` to connect this project to GitHub (I used `https` option).
 
