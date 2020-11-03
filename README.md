@@ -24,7 +24,7 @@ You can install from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("nicholasjhorton/DiscGolf")
+remotes::install_github("nicholasjhorton/DiscGolf")
 ```
 
 ## Example
