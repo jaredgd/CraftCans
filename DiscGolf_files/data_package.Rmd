@@ -1,7 +1,7 @@
 ---
 title: "Creating a data package"
 author: "Nicholas Horton (nhorton@amherst.edu)"
-date: "October 30, 2020"
+date: "November 9, 2020"
 output: 
   pdf_document:
     fig_height: 3
@@ -43,9 +43,9 @@ This should display information about your Personal access token value (if <unse
 
 4.  Run `usethis::use_git()` to set up Git connectiona and add other files.
 Be sure to confirm that you are seeing both a "Build" tab and a "Git" tab.
-If no "Git" tab appears please open "Tools" / "Project Options" / "Version Control" and ensure that "Git is selected.
+If no "Git" tab appears please open "Tools" / "Project Options" / "Version Control" and ensure that "Git" is selected.
 
-5. Edit the `DESCRIPTION` file with your information (see the DESCRIPTION file I've provided for an example) and save the file.
+5. Edit the `DESCRIPTION` file with your information (see the DESCRIPTION file I've provided for an example) and save the file. Here are some lines that need to be changed (please keep the other lines).
 
 ```
 Title: Flying objects officially approved for use in competition
