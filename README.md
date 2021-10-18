@@ -32,7 +32,8 @@ remotes::install_github("nicholasjhorton/DiscGolf")
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+This could be where you provide a basic example which shows you how to
+solve a common problem:
 
 ``` r
 library(DiscGolf)

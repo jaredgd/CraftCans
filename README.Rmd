@@ -10,7 +10,7 @@ knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>",
   fig.path = "man/figures/README-",
-  out.width = "100%"
+  out.width = "99%"
 )
 ```
 
@@ -39,7 +39,7 @@ remotes::install_github("nicholasjhorton/DiscGolf")
 ```
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+This could be where you provide a basic example which shows you how to solve a common problem:
 
 ```{r example}
 library(DiscGolf)
