@@ -17,6 +17,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 ![R-CMD-check](https://github.com/nicholasjhorton/DiscGolf/workflows/R-CMD-check/badge.svg)
+![R-CMD-check](https://github.com/nicholasjhorton/DiscGolf/workflows/render-markdown/badge.svg)
 <!-- badges: end -->
 
 The goal of this package is to provide an example of how to create a data package in R.
@@ -40,6 +41,8 @@ This is a basic example which shows you how to solve a common problem:
 ```{r example}
 library(DiscGolf)
 summary(DiscGolf)
+head(DiscGolf)
+sessionInfo()
 ```
 
 
