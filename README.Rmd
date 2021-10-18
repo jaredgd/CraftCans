@@ -22,7 +22,7 @@ knitr::opts_chunk$set(
 <!-- badges: end -->
 
 
-The goal of Nick's package is to provide an example of how to create a data package in R.
+The goal of this package is to provide an example of how to create a data package in R.
 
 It uses Nick's example from the DataIsPlural website to tell people about approved discs for disc golf.
 
