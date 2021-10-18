@@ -6,7 +6,8 @@
 <!-- badges: start -->
 
 ![R-CMD-check](https://github.com/nicholasjhorton/DiscGolf/workflows/R-CMD-check/badge.svg)
-![R-CMD-check](https://github.com/nicholasjhorton/DiscGolf/workflows/render-README/badge.svg)
+[![Render
+README](https://github.com/nicholasjhorton/DiscGolf/actions/workflows/render-README.yaml/badge.svg)](https://github.com/nicholasjhorton/DiscGolf/actions/workflows/render-README.yaml)
 <!-- badges: end -->
 
 The goal of this package is to provide an example of how to create a
