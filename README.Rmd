@@ -14,7 +14,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# DiscGolf
+# DiscGolf package
 
 <!-- badges: start -->
 ![R-CMD-check](https://github.com/nicholasjhorton/DiscGolf/workflows/R-CMD-check/badge.svg)
