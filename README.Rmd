@@ -20,6 +20,7 @@ knitr::opts_chunk$set(
 ![R-CMD-check](https://github.com/nicholasjhorton/DiscGolf/workflows/render-README/badge.svg)
 <!-- badges: end -->
 
+
 The goal of this package is to provide an example of how to create a data package in R.
 
 It uses Nick's example from DataIsPlural to tell people about approved discs for disc golf.
