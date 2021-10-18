@@ -14,9 +14,9 @@ jobs:
       - uses: r-lib/actions/setup-r@v1
       - uses: r-lib/actions/setup-pandoc@v1
       - name: Install rmarkdown
-        run: Rscript -e 'install.packages(c("rmarkdown", "remotes"))'
+        run: Rscript -e 'install.packages(c("rmarkdown", "pak"))'
       - name: Install my package
-        run: Rscript -e 'remotes::install_github("nicholasjhorton/DiscGolf")'
+        run: Rscript -e 'pak::pkg_install("nicholasjhorton/DiscGolf")'
       - name: Render README
         run: Rscript -e 'rmarkdown::render("README.Rmd")'
       - name: Commit results

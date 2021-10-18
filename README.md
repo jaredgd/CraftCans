@@ -12,8 +12,8 @@
 The goal of this package is to provide an example of how to create a
 data package in R.
 
-It uses Nick’s example from DataIsPlural to tell people about approved
-discs for disc golf.
+It uses Nick’s example from the DataIsPlural website to tell people
+about approved discs for disc golf.
 
 See <https://youtu.be/-VHYLgEBzNc> for a Youtube video and the files in
 <https://github.com/nicholasjhorton/DiscGolf/tree/master/DiscGolf_files>
