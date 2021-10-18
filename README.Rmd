@@ -28,7 +28,8 @@ See https://youtu.be/-VHYLgEBzNc for a Youtube video and the files in https://gi
 
 ## Installation
 
-You can install from [GitHub](https://github.com/) with:
+Want to try it?
+You can install the package from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
