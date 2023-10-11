@@ -1,11 +1,11 @@
 library(tidyverse)
 DiscGolf <-
-  readr::read_csv("pdga-approved-disc-golf-discs_2020-10-04T15-02-04.csv") %>%
-  janitor::clean_names() %>%
+  readr::read_csv("pdga-approved-disc-golf-discs_2020-10-04T15-02-04.csv") |>
+  janitor::clean_names() |>
   mutate(
     model = iconv(disc_model, "latin1", "ASCII", sub = ""),
     approved_date = lubridate::mdy(approved_date)
-  ) %>%
+  ) |>
   rename(
     diameter = diameter_cm,
     flexibility = flexibility_kg,

@@ -3,13 +3,6 @@
 
 # DiscGolf package
 
-<!-- badges: start -->
-
-![R-CMD-check](https://github.com/nicholasjhorton/DiscGolf/workflows/R-CMD-check/badge.svg)
-[![Render
-README](https://github.com/nicholasjhorton/DiscGolf/actions/workflows/render-README.yaml/badge.svg)](https://github.com/nicholasjhorton/DiscGolf/actions/workflows/render-README.yaml)
-<!-- badges: end -->
-
 The goal of this package is to provide an example of how to create a
 data package in R.
 
@@ -85,26 +78,31 @@ head(DiscGolf)
 #> 5           1.1  174.3
 #> 6           1.0  176.0
 sessionInfo()
-#> R version 4.1.0 (2021-05-18)
-#> Platform: x86_64-apple-darwin17.0 (64-bit)
-#> Running under: macOS Big Sur 10.16
+#> R version 4.3.1 (2023-06-16)
+#> Platform: aarch64-apple-darwin20 (64-bit)
+#> Running under: macOS Ventura 13.6
 #> 
 #> Matrix products: default
-#> BLAS:   /Library/Frameworks/R.framework/Versions/4.1/Resources/lib/libRblas.dylib
-#> LAPACK: /Library/Frameworks/R.framework/Versions/4.1/Resources/lib/libRlapack.dylib
+#> BLAS:   /Library/Frameworks/R.framework/Versions/4.3-arm64/Resources/lib/libRblas.0.dylib 
+#> LAPACK: /Library/Frameworks/R.framework/Versions/4.3-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.11.0
 #> 
 #> locale:
 #> [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+#> 
+#> time zone: America/New_York
+#> tzcode source: internal
 #> 
 #> attached base packages:
 #> [1] stats     graphics  grDevices utils     datasets  methods   base     
 #> 
 #> other attached packages:
-#> [1] DiscGolf_0.1.0 rmarkdown_2.11
+#> [1] DiscGolf_0.1.0
 #> 
 #> loaded via a namespace (and not attached):
-#>  [1] compiler_4.1.0  magrittr_2.0.1  fastmap_1.1.0   tools_4.1.0    
-#>  [5] htmltools_0.5.2 yaml_2.2.1      stringi_1.7.5   knitr_1.36     
-#>  [9] stringr_1.4.0   xfun_0.26       digest_0.6.28   rlang_0.4.11   
-#> [13] evaluate_0.14
+#>  [1] compiler_4.3.1    fastmap_1.1.1     cli_3.6.1         tools_4.3.1      
+#>  [5] htmltools_0.5.6   rstudioapi_0.15.0 yaml_2.3.7        rmarkdown_2.25   
+#>  [9] knitr_1.44        xfun_0.40         digest_0.6.33     rlang_1.1.1      
+#> [13] evaluate_0.22
 ```
+
+Last updated October 11, 2023
