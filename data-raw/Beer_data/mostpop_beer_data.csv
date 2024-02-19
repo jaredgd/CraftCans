@@ -1,0 +1,251 @@
+"","rank","name","brewery","type","ABV","num_ratings","avg_rating"
+"1","1","Breakfast Stout","Founders Brewing Company","Oatmeal Stout",8.3,17944,4.51
+"2","2","90 Minute IPA","Dogfish Head Craft Brewery","Imperial IPA",9,16524,4.27
+"3","3","Two Hearted IPA","Bell's Brewery - Eccentric Café & General Store","American IPA",7,15821,4.27
+"4","4","Pliny The Elder","Russian River Brewing Company","Imperial IPA",8,15683,4.64
+"5","5","Heady Topper","The Alchemist","Imperial IPA",8,15270,4.71
+"6","6","Sculpin","Ballast Point Brewing Company","American IPA",7,14655,4.38
+"7","7","KBS","Founders Brewing Company","American Imperial Stout",12,14162,4.6
+"8","8","Hopslam Ale","Bell's Brewery - Eccentric Café & General Store","Imperial IPA",10,14023,4.45
+"9","9","Bourbon County Brand Stout","Goose Island Beer Co.","American Imperial Stout",14.3,13435,4.6
+"10","10","Old Rasputin","North Coast Brewing Co.","Russian Imperial Stout",9,13103,4.3
+"11","11","Pale Ale","Sierra Nevada Brewing Co.","American Pale Ale",5.6,12275,4.03
+"12","12","60 Minute IPA","Dogfish Head Craft Brewery","American IPA",6,12255,4.08
+"13","13","Stone IPA","Stone Brewing","American IPA",6.9,11815,4.2
+"14","14","Torpedo Extra IPA","Sierra Nevada Brewing Co.","American IPA",7.2,11710,4.15
+"15","15","Zombie Dust","3 Floyds Brewing Co.","American Pale Ale",6.5,11441,4.57
+"16","16","Enjoy By IPA","Stone Brewing","Imperial IPA",9.4,11207,4.41
+"17","17","Arrogant Bastard Ale","Arrogant Consortia","American Strong Ale",7.2,11186,4.14
+"18","18","Ruination IPA","Stone Brewing","Imperial IPA",8.2,10970,4.29
+"19","19","Celebration IPA","Sierra Nevada Brewing Co.","American IPA",6.8,10958,4.15
+"20","20","La Fin Du Monde","Unibroue","Tripel",9,10731,4.32
+"21","21","Lagunitas Sucks","Lagunitas Brewing Company","Imperial IPA",7.85,10520,4.32
+"22","22","Abt 12","Brouwerij St. Bernardus NV","Quadrupel (Quad)",10,10339,4.47
+"23","23","Ten FIDY","Oskar Blues Grill & Brew","American Imperial Stout",10.5,10297,4.38
+"24","24","Trappistes Rochefort 10","Brasserie de Rochefort","Quadrupel (Quad)",11.3,9990,4.5
+"25","25","Samuel Adams Boston Lager","Boston Beer Company (Samuel Adams)","Vienna Lager",5,9959,3.73
+"26","26","IPA","Lagunitas Brewing Company","American IPA",6.2,9649,3.89
+"27","27","A Little Sumpin' Sumpin' Ale","Lagunitas Brewing Company","American IPA",7.5,9610,4.2
+"28","28","Weihenstephaner Hefeweissbier","Bayerische Staatsbrauerei Weihenstephan","Hefeweizen",5.4,9232,4.41
+"29","29","Jai Alai IPA","Cigar City Brewing","American IPA",7.5,9183,4.27
+"30","30","Centennial IPA","Founders Brewing Company","American IPA",7.2,8928,4.12
+"31","31","Backwoods Bastard","Founders Brewing Company","Scotch Ale / Wee Heavy",11.2,8927,4.35
+"32","32","Nugget Nectar","Tröegs Brewing Company","Imperial Red Ale",7.5,8880,4.32
+"33","33","120 Minute IPA","Dogfish Head Craft Brewery","Imperial IPA",18,8844,4.12
+"34","34","Guinness Draught","Guinness Ltd.","Irish Dry Stout",4.2,8774,3.6
+"35","35","Duvel","Brouwerij Duvel Moortgat NV","Belgian Pale Strong Ale",8.5,8525,4.25
+"36","36","Imperial Russian Stout","Stone Brewing","Russian Imperial Stout",10.6,8493,4.33
+"37","37","Bleue (Blue)","Bières de Chimay","Belgian Dark Strong Ale",9,8367,4.3
+"38","38","Samuel Adams Octoberfest","Boston Beer Company (Samuel Adams)","Märzen",5.3,8231,3.67
+"39","39","Dirty Bastard","Founders Brewing Company","Scotch Ale / Wee Heavy",8.5,8202,4.05
+"40","40","Dead Guy Ale","Rogue Ales","Maibock",6.8,8129,3.94
+"41","41","West Coast IPA","Green Flash Brewing Co.","American IPA",7,8095,4.22
+"42","42","Imperial Stout","Founders Brewing Company","Russian Imperial Stout",10.5,8073,4.36
+"43","43","Racer 5","Bear Republic Brewing Co.","American IPA",7.5,8052,4.18
+"44","44","Porter","Founders Brewing Company","Robust Porter",6.5,8051,4.25
+"45","45","All Day IPA","Founders Brewing Company","American IPA",4.7,8023,3.87
+"46","46","Pumking","Southern Tier Brewing Company","Pumpkin Beer",8.6,7919,4.05
+"47","47","Bigfoot","Sierra Nevada Brewing Co.","American Barleywine",9.6,7906,4.14
+"48","48","Dale's Pale Ale","Oskar Blues Grill & Brew","American Pale Ale",6.5,7888,3.88
+"49","49","Blue Moon Belgian White","Blue Moon Brewing Company","Witbier",5.4,7847,3.42
+"50","50","Double Jack","Firestone Walker Brewing Co.","Imperial IPA",9.5,7654,4.33
+"51","51","HopDevil","Victory Brewing Company - Downingtown","American IPA",6.7,7626,4.05
+"52","52","Bourbon County Brand Coffee Stout","Goose Island Beer Co.","American Imperial Stout",13.2,7578,4.67
+"53","53","The Abyss","Deschutes Brewery","American Imperial Stout",11.4,7573,4.47
+"54","54","Oberon","Bell's Brewery - Eccentric Café & General Store","American Pale Wheat Beer",5.8,7414,3.83
+"55","55","Speedway Stout","AleSmith Brewing Company","American Imperial Stout",12,7288,4.38
+"56","56","Traditional Lager","Yuengling Brewery","American Amber / Red Lager",4.5,7259,3.42
+"57","57","Parabola","Firestone Walker Brewing Co.","Russian Imperial Stout",13.5,7232,4.6
+"58","58","Victory At Sea - Coffee And Vanilla","Ballast Point Brewing Company","Imperial Porter",10,7159,4.39
+"59","59","Union Jack IPA","Firestone Walker Brewing Co.","American IPA",7,7148,4.22
+"60","60","Milk Stout","Left Hand Brewing Company","Sweet / Milk Stout",6,7142,3.99
+"61","61","Oatmeal Stout","Samuel Smith Old Brewery (Tadcaster)","Oatmeal Stout",5,7124,4.21
+"62","62","Celebrator","Ayinger Privatbrauerei","Doppelbock",6.7,7060,4.34
+"63","63","Black Chocolate Stout","Brooklyn Brewery","Russian Imperial Stout",10,7039,4.15
+"64","64","Alpha King","3 Floyds Brewing Co.","American Pale Ale",6.66,7016,4.24
+"65","65","Budweiser","Anheuser-Busch","American Adjunct Lager",5,6981,2.38
+"66","66","Punkin Ale","Dogfish Head Craft Brewery","Pumpkin Beer",7,6940,3.92
+"67","67","Edmund Fitzgerald","Great Lakes Brewing Co.","American Porter",6,6935,4.24
+"68","68","DirtWolf","Victory Brewing Company - Downingtown","Imperial IPA",8.7,6880,4.27
+"69","69","Three Philosophers","Brewery Ommegang","Quadrupel (Quad)",9.7,6864,4.15
+"70","70","Trappist Westvleteren 12 (XII)","Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren)","Quadrupel (Quad)",10.2,6849,4.61
+"71","71","Double Bastard Ale","Arrogant Consortia","American Strong Ale",11,6821,4.26
+"72","72","CBS (Canadian Breakfast Stout)","Founders Brewing Company","American Imperial Stout",11.7,6783,4.64
+"73","73","Burton Baton","Dogfish Head Craft Brewery","Imperial IPA",10,6753,4.23
+"74","74","Supplication","Russian River Brewing Company","Wild Ale",7.75,6720,4.55
+"75","75","Black Butte Porter","Deschutes Brewery","American Porter",5.5,6684,4.17
+"76","76","Double Trouble","Founders Brewing Company","Imperial IPA",9.4,6683,4.2
+"77","77","Dragon's Milk Bourbon Barrel-Aged Stout","New Holland Brewing Company","American Imperial Stout",11,6680,4.05
+"78","78","Bud Light","Anheuser-Busch","Light Lager",4.2,6662,1.88
+"79","79","Bomb!","Prairie Artisan Ales","American Imperial Stout",13,6638,4.49
+"80","80","Expedition Stout","Bell's Brewery - Eccentric Café & General Store","Russian Imperial Stout",10.5,6623,4.26
+"81","81","Hoptimum","Sierra Nevada Brewing Co.","Imperial IPA",11,6545,4.18
+"82","82","Anchor Steam Beer","Anchor Brewing Company","California Common / Steam Beer",4.9,6459,3.85
+"83","83","Gumballhead","3 Floyds Brewing Co.","American Pale Wheat Beer",5.6,6419,4.19
+"84","84","Sculpin - Grapefruit","Ballast Point Brewing Company","American IPA",7,6413,4.31
+"85","85","Pabst Blue Ribbon (PBR)","Pabst Brewing Company","American Adjunct Lager",4.8,6369,2.95
+"86","86","Delirium Tremens","Brouwerij Huyghe","Belgian Pale Strong Ale",8.5,6350,4.13
+"87","87","Dreadnaught","3 Floyds Brewing Co.","Imperial IPA",9.4,6289,4.4
+"88","88","Indian Brown Ale","Dogfish Head Craft Brewery","American Brown Ale",7.2,6281,4.09
+"89","89","Golden Monkey","Victory Brewing Company - Downingtown","Tripel",9.5,6222,3.73
+"90","90","Blind Pig","Russian River Brewing Company","American IPA",6.25,6211,4.36
+"91","91","Hennepin","Brewery Ommegang","Saison",7.7,6207,4.15
+"92","92","Sip Of Sunshine","Lawson's Finest Liquids","Imperial IPA",8,6162,4.55
+"93","93","Lunch","Maine Beer Company","American IPA",7,6157,4.38
+"94","94","Storm King","Victory Brewing Company - Downingtown","American Imperial Stout",9.1,6106,4.05
+"95","95","Sublimely Self-Righteous Black IPA","Stone Brewing","Black IPA",8.7,6094,4.22
+"96","96","Stella Artois","Stella Artois","European Pale Lager",5,6067,3.11
+"97","97","Young's Double Chocolate Stout","Eagle Brewery","Sweet / Milk Stout",5.2,6038,4.02
+"98","98","Brown Shugga'","Lagunitas Brewing Company","American Strong Ale",10,6036,4.03
+"99","99","Furious","Surly Brewing Company","American IPA",6.7,5971,4.28
+"100","100","White","Allagash Brewing Company","Witbier",5.2,5943,4.16
+"101","101","#9","Magic Hat Brewing Company","Fruit and Field Beer",5.1,5941,3.4
+"102","102","Goose IPA","Goose Island Beer Co.","English IPA",5.9,5934,3.7
+"103","103","Samuel Adams Summer Ale","Boston Beer Company (Samuel Adams)","American Pale Wheat Beer",5.3,5932,3.34
+"104","104","RuinTen Triple IPA","Stone Brewing","Imperial IPA",10.8,5901,4.3
+"105","105","Maximus","Lagunitas Brewing Company","Imperial IPA",9,5884,3.99
+"106","106","Orval Trappist Ale","Brasserie d'Orval S.A.","Belgian Pale Ale",6.2,5873,4.2
+"107","107","Maharaja","Avery Brewing Company","Imperial IPA",10.2,5823,4.23
+"108","108","Yeti","Great Divide Brewing Company","American Imperial Stout",9.5,5803,4.21
+"109","109","Pseudo Sue","Toppling Goliath Brewing Company","American Pale Ale",5.8,5800,4.5
+"110","110","Hoegaarden Original White Ale","Brouwerij van Hoegaarden","Witbier",4.9,5764,3.79
+"111","111","Coors Light","Coors Brewing Company (Molson-Coors)","Light Lager",4.2,5742,2.06
+"112","112","Heineken Lager Beer","Heineken Nederland B.V.","European Pale Lager",5,5731,2.74
+"113","113","Trappistes Rochefort 8","Brasserie de Rochefort","Belgian Dark Strong Ale",9.2,5703,4.33
+"114","114","Fresh Squeezed IPA","Deschutes Brewery","American IPA",6.4,5693,4.24
+"115","115","Tank 7","Boulevard Brewing Co.","Saison",8.5,5689,4.17
+"116","116","Corona Extra","Grupo Modelo S.A. de C.V.","American Adjunct Lager",4.6,5630,2.37
+"117","117","Consecration","Russian River Brewing Company","Wild Ale",10,5627,4.49
+"118","118","Old Chub","Oskar Blues Grill & Brew","Scotch Ale / Wee Heavy",8,5534,4.02
+"119","119","Narwhal","Sierra Nevada Brewing Co.","Russian Imperial Stout",11.9,5533,4.16
+"120","120","Flower Power","Ithaca Beer Company","American IPA",7.2,5533,4.22
+"121","121","§ucaba","Firestone Walker Brewing Co.","English Barleywine",12.5,5520,4.51
+"122","122","Prima Pils","Victory Brewing Company - Downingtown","German Pilsner",5.3,5520,4.02
+"123","123","Finestkind IPA","Smuttynose Brewing Company","American IPA",6.9,5462,4.1
+"124","124","Newcastle Brown Ale","Heineken Nederland B.V.","English Brown Ale",4.7,5459,3.32
+"125","125","Péché Mortel","Brasserie Dieu du Ciel!","American Imperial Stout",9.5,5385,4.41
+"126","126","Choklat","Southern Tier Brewing Company","American Imperial Stout",10,5357,4.26
+"127","127","Red's Rye IPA","Founders Brewing Company","Rye Beer",6.6,5330,4.18
+"128","128","Ruthless Rye IPA","Sierra Nevada Brewing Co.","Rye Beer",6.6,5318,3.89
+"129","129","OAKED Arrogant Bastard Ale","Arrogant Consortia","American Strong Ale",7.2,5279,4.2
+"130","130","Trois Pistoles","Unibroue","Belgian Dark Strong Ale",9,5259,4.23
+"131","131","Rouge (Red)","Bières de Chimay","Dubbel",7,5255,4.15
+"132","132","World Wide Stout","Dogfish Head Craft Brewery","American Imperial Stout",18,5194,4.22
+"133","133","Miller Lite","Miller Brewing Co.","Light Lager",4.17,5143,2.24
+"134","134","Resin","Sixpoint Brewery","Imperial IPA",9.1,5134,4.12
+"135","135","Devil Dancer","Founders Brewing Company","Imperial IPA",12,5114,3.9
+"136","136","Julius","Tree House Brewing Company","New England IPA",6.8,5073,4.65
+"137","137","Midas Touch","Dogfish Head Craft Brewery","Herb and Spice Beer",9,5038,3.74
+"138","138","ApriHop","Dogfish Head Craft Brewery","American IPA",7,5011,3.84
+"139","139","Franziskaner Premium Weissbier","Spaten-Franziskaner-Bräu","Hefeweizen",5,4992,4.06
+"140","140","Trappist Tripel","Brouwerij Westmalle","Tripel",9.5,4982,4.3
+"141","141","Black Note Stout","Bell's Brewery - Eccentric Café & General Store","American Imperial Stout",11.2,4976,4.54
+"142","142","Matilda","Goose Island Beer Co.","Belgian Pale Strong Ale",7,4970,4.03
+"143","143","Maudite","Unibroue","Dubbel",8,4918,4.19
+"144","144","Curmudgeon","Founders Brewing Company","Old Ale",9.8,4869,4.03
+"145","145","312 Urban Wheat","Goose Island Beer Co.","American Pale Wheat Beer",4.2,4867,3.39
+"146","146","2XIPA","Southern Tier Brewing Company","Imperial IPA",8.2,4851,4.02
+"147","147","Tap 6: Mein Aventinus","Schneider Weisse G. Schneider & Sohn","Weizenbock",8.2,4851,4.33
+"148","148","Abrasive Ale","Surly Brewing Company","Imperial IPA",9.2,4832,4.5
+"149","149","Guinness Extra Stout (Original)","Guinness Ltd.","Irish Dry Stout",5.6,4826,3.75
+"150","150","Hop Rod Rye","Bear Republic Brewing Co.","Rye Beer",8,4755,4.22
+"151","151","Abbey Ale","Brewery Ommegang","Dubbel",8.2,4752,4.16
+"152","152","Crème Brûlée","Southern Tier Brewing Company","Sweet / Milk Stout",10,4728,3.92
+"153","153","Triple (White)","Bières de Chimay","Tripel",8,4723,4.14
+"154","154","Harvest Ale","Founders Brewing Company","American IPA",7.6,4715,4.25
+"155","155","Sofie","Goose Island Beer Co.","Saison",6.5,4704,4.09
+"156","156","Kalamazoo Stout","Bell's Brewery - Eccentric Café & General Store","American Stout",6,4685,3.98
+"157","157","Duchesse De Bourgogne","Brouwerij Verhaeghe","Flanders Red Ale",6.2,4675,4.16
+"158","158","Wookey Jack","Firestone Walker Brewing Co.","Black IPA",8.3,4671,4.25
+"159","159","Oak Aged Yeti Imperial Stout","Great Divide Brewing Company","American Imperial Stout",9.5,4659,4.25
+"160","160","Vanilla Porter","Breckenridge Brewery","American Porter",5.4,4636,3.66
+"161","161","Saison Dupont","Brasserie Dupont sprl","Saison",6.5,4597,4.19
+"162","162","Duet","Alpine Beer Company","American IPA",7,4580,4.33
+"163","163","Shiner Bock","Spoetzl Brewery","Bock",4.5,4564,3.21
+"164","164","Tripel Karmeliet","Brouwerij Bosteels","Tripel",8.4,4564,4.29
+"165","165","Undercover Investigation Shut-down Ale","Lagunitas Brewing Company","American Strong Ale",9.6,4560,4.07
+"166","166","Head Hunter","Fat Head's Brewery & Saloon","American IPA",7.5,4557,4.33
+"167","167","Imperial Biscotti Break","Evil Twin Brewing","American Imperial Stout",11.5,4549,4.34
+"168","168","Hazelnut Brown Nectar","Rogue Ales","English Brown Ale",5.6,4545,4.06
+"169","169","Summerfest","Sierra Nevada Brewing Co.","Bohemian / Czech Pilsner",5,4537,3.68
+"170","170","Dark Lord","3 Floyds Brewing Co.","Russian Imperial Stout",15,4527,4.28
+"171","171","Focal Banger","The Alchemist","New England IPA",7,4520,4.57
+"172","172","Pilsner Urquell","Plzeňský Prazdroj","Bohemian / Czech Pilsner",4.4,4509,3.63
+"173","173","Hunahpu's Imperial Stout","Cigar City Brewing","American Imperial Stout",10.2,4458,4.57
+"174","174","Samuel Adams Rebel IPA","Boston Beer Company (Samuel Adams)","American IPA",6.5,4454,3.59
+"175","175","Festina Pêche","Dogfish Head Craft Brewery","Berliner Weisse",4.5,4448,3.66
+"176","176","Hop Nosh IPA","Uinta Brewing Company","American IPA",7.3,4437,4.02
+"177","177","Leffe Blonde","Abbaye de Leffe S.A.","Belgian Blonde Ale",6.6,4409,3.58
+"178","178","IPA","AleSmith Brewing Company","American IPA",7.25,4408,4.23
+"179","179","1554","New Belgium Brewing Company","European Dark Lager",6,4392,3.83
+"180","180","Big Eye","Ballast Point Brewing Company","American IPA",7,4382,4.05
+"181","181","Nelson","Alpine Beer Company","American IPA",7,4372,4.43
+"182","182","IPA","Harpoon Brewery & Beer Hall","English IPA",6,4365,3.63
+"183","183","Gulden Draak","Brouwerij Van Steenberge N.V.","Belgian Dark Strong Ale",10.5,4359,4.24
+"184","184","Xocoveza","Stone Brewing","American Imperial Stout",8.1,4353,4.33
+"185","185","Miller High Life","Miller Brewing Co.","American Adjunct Lager",4.6,4342,2.74
+"186","186","Raison D'Être","Dogfish Head Craft Brewery","Belgian Dark Strong Ale",8,4341,3.66
+"187","187","Titan IPA","Great Divide Brewing Company","American IPA",7.1,4340,4.06
+"188","188","Chocolate Stout","Rogue Ales","American Stout",5.8,4319,4.15
+"189","189","Rodenbach Grand Cru","Brouwerij Rodenbach N.V.","Flanders Red Ale",6,4298,4.29
+"190","190","Raging Bitch","Flying Dog Brewery","Belgian IPA",8.3,4276,3.86
+"191","191","Hercules Double IPA","Great Divide Brewing Company","Imperial IPA",10,4276,4.12
+"192","192","G'Knight","Oskar Blues Grill & Brew","Imperial Red Ale",8.7,4273,4.11
+"193","193","The Mad Elf","Tröegs Brewing Company","Belgian Dark Strong Ale",11,4270,3.88
+"194","194","Darkness","Surly Brewing Company","Russian Imperial Stout",12,4269,4.48
+"195","195","Nut Brown Ale","Samuel Smith Old Brewery (Tadcaster)","English Brown Ale",5,4257,4.08
+"196","196","Black Tuesday","The Bruery","American Imperial Stout",19.5,4234,4.54
+"197","197","Smoked Porter","Stone Brewing","Smoked Porter",5.9,4218,4
+"198","198","Obsidian Stout","Deschutes Brewery","American Stout",6.4,4214,4.19
+"199","199","Shock Top Belgian White","Anheuser-Busch","Witbier",5.2,4203,2.96
+"200","200","Palate Wrecker","Green Flash Brewing Co.","Imperial IPA",9.5,4185,4.16
+"201","201","Kellerweis","Sierra Nevada Brewing Co.","Hefeweizen",4.8,4179,4.04
+"202","202","Daisy Cutter","Half Acre Beer Company","American Pale Ale",5.2,4157,4.15
+"203","203","Special Double Cream Stout","Bell's Brewery - Eccentric Café & General Store","Sweet / Milk Stout",6.1,4131,3.96
+"204","204","Curieux","Allagash Brewing Company","Tripel",10.2,4127,4.28
+"205","205","Big Bad Baptist","Epic Brewing Company","American Imperial Stout",11.8,4116,4.36
+"206","206","Plead The 5th Imperial Stout","Dark Horse Brewing Company","Russian Imperial Stout",11,4114,4.3
+"207","207","La Folie","New Belgium Brewing Company","Flanders Oud Bruin",7,4105,4.25
+"208","208","420 Extra Pale Ale","SweetWater Brewing Company","American Pale Ale",5.7,4102,3.65
+"209","209","Samuel Adams Cherry Wheat","Boston Beer Company (Samuel Adams)","Fruit and Field Beer",5.3,4089,3.17
+"210","210","Wake-n-Bake Coffee Oatmeal Imperial Stout","Terrapin Beer Company","Oatmeal Stout",9.4,4080,4.29
+"211","211","Imperial Stout","Samuel Smith Old Brewery (Tadcaster)","Russian Imperial Stout",7,4048,4.16
+"212","212","Raspberry Tart","New Glarus Brewing Company","Fruit and Field Beer",4,4046,4.37
+"213","213","Spotted Cow","New Glarus Brewing Company","Saison",4.8,4038,3.76
+"214","214","Lager","Brooklyn Brewery","American Amber / Red Lager",5.2,4008,3.72
+"215","215","Honker's Ale","Goose Island Beer Co.","English Bitter",4.3,4003,3.65
+"216","216","Mirror Pond Pale Ale","Deschutes Brewery","American Pale Ale",5,4000,3.9
+"217","217","Gueuze 100% Lambic","Brasserie Cantillon","Gueuze",5.5,3990,4.45
+"218","218","Weihenstephaner Vitus","Bayerische Staatsbrauerei Weihenstephan","Weizenbock",7.7,3969,4.28
+"219","219","Damnation","Russian River Brewing Company","Belgian Pale Strong Ale",7.5,3955,4.12
+"220","220","Summer Shandy","Jacob Leinenkugel Brewing Company","Fruit and Field Beer",4.2,3952,3.19
+"221","221","Hefe-Weissbier Naturtrüb","Paulaner Brauerei","Hefeweizen",5.5,3928,4.05
+"222","222","Anchor Porter","Anchor Brewing Company","American Porter",5.6,3897,4.09
+"223","223","Samuel Adams Old Fezziwig Ale","Boston Beer Company (Samuel Adams)","Winter Warmer",5.9,3891,3.77
+"224","224","Temptation","Russian River Brewing Company","Wild Ale",7.5,3890,4.45
+"225","225","Negra Modelo","Grupo Modelo S.A. de C.V.","Munich Dunkel",5.4,3868,3.37
+"226","226","Perpetual IPA","Tröegs Brewing Company","Imperial IPA",7.5,3863,4.07
+"227","227","Rübæus","Founders Brewing Company","Fruit and Field Beer",5.7,3857,3.88
+"228","228","Wisconsin Belgian Red","New Glarus Brewing Company","Fruit and Field Beer",4,3843,4.38
+"229","229","Samuel Adams Latitude 48 IPA","Boston Beer Company (Samuel Adams)","American IPA",6,3822,3.56
+"230","230","IPA","SweetWater Brewing Company","American IPA",6.3,3805,3.96
+"231","231","Espresso Oak Aged Yeti Imperial Stout","Great Divide Brewing Company","American Imperial Stout",9.5,3798,4.27
+"232","232","75 Minute IPA","Dogfish Head Craft Brewery","American IPA",7.5,3796,4.11
+"233","233","Northern Hemisphere Harvest Wet Hop IPA","Sierra Nevada Brewing Co.","American IPA",6.7,3794,4.16
+"234","234","Hopsecutioner","Terrapin Beer Company","American IPA",7.3,3763,3.82
+"235","235","Loose Cannon","Heavy Seas Beer","American IPA",7.25,3755,4
+"236","236","Porter","Sierra Nevada Brewing Co.","American Porter",5.6,3751,3.89
+"237","237","Organic Chocolate Stout","Samuel Smith Old Brewery (Tadcaster)","English Stout",5,3715,4.23
+"238","238","Arctic Panzer Wolf","3 Floyds Brewing Co.","Imperial IPA",9,3713,4.26
+"239","239","Blackout Stout","Great Lakes Brewing Co.","Russian Imperial Stout",9.9,3694,4.2
+"240","240","Go To IPA","Stone Brewing","American IPA",4.7,3648,3.95
+"241","241","Pranqster","North Coast Brewing Co.","Belgian Pale Strong Ale",7.6,3618,4.04
+"242","242","Purple Haze","Abita Brewing Co.","Fruit and Field Beer",4.2,3590,3.29
+"243","243","Dortmunder Gold","Great Lakes Brewing Co.","European / Dortmunder Export Lager",5.8,3584,4.06
+"244","244","A Little Sumpin' Wild","Lagunitas Brewing Company","Belgian IPA",8.8,3571,4.1
+"245","245","Troegenator","Tröegs Brewing Company","Doppelbock",8.2,3562,3.95
+"246","246","Pliny The Younger","Russian River Brewing Company","Imperial IPA",10.25,3554,4.69
+"247","247","King Sue","Toppling Goliath Brewing Company","New England IPA",7.8,3531,4.58
+"248","248","Shakespeare Oatmeal Stout","Rogue Ales","Oatmeal Stout",5.8,3525,4.13
+"249","249","Red Stripe Jamaican Lager","Desnoes & Geddes Limited","American Adjunct Lager",4.7,3521,2.98
+"250","250","Rare Vos Amber Ale","Brewery Ommegang","Belgian Pale Ale",6.5,3518,4.07

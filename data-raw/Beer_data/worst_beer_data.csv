@@ -1,0 +1,251 @@
+"","rank","name","brewery","type","ABV","num_ratings","avg_rating"
+"1","1","Budweiser Select 55","Anheuser-Busch","Light Lager",2.4,630,1.65
+"2","2","Natural Light","Anheuser-Busch","Light Lager",4.2,2394,1.76
+"3","3","Sharp's","Miller Brewing Co.","Low-Alcohol Beer",0.4,174,1.72
+"4","4","Keystone Light","Coors Brewing Company (Molson-Coors)","Light Lager",4.1,2194,1.84
+"5","5","Beer 30 Light","Melanie Brewing Company","Light Lager",4,105,1.66
+"6","6","Natural Ice","Anheuser-Busch","American Adjunct Lager",5.9,1589,1.85
+"7","7","Miller 64","Miller Brewing Co.","Light Lager",2.8,841,1.84
+"8","8","Milwaukee's Best Light","Miller Brewing Co.","Light Lager",4.2,738,1.84
+"9","9","Bud Light","Anheuser-Busch","Light Lager",4.2,6662,1.88
+"10","10","Milwaukee's Best","Miller Brewing Co.","American Adjunct Lager",4.8,845,1.89
+"11","11","Busch Ice","Anheuser-Busch","American Adjunct Lager",5.9,368,1.87
+"12","12","Bud Ice","Anheuser-Busch","American Adjunct Lager",5.5,1276,1.94
+"13","13","Busch Light","Anheuser-Busch","Light Lager",4.1,1865,1.95
+"14","14","Michelob Ultra","Anheuser-Busch","Light Lager",4.2,2753,1.96
+"15","15","Bud Light & Clamato Chelada","Anheuser-Busch","Fruit and Field Beer",4.2,461,1.93
+"16","16","Corona Light","Grupo Modelo S.A. de C.V.","Light Lager",4.1,2187,1.98
+"17","17","Keystone Lager","Molson Coors Canada","American Adjunct Lager",4.9,148,1.9
+"18","18","Carlton Cold","Carlton & United Breweries, Ltd.","Light Lager",3.5,51,1.66
+"19","19","Sleeman Clear","Sleeman Breweries Ltd.","Light Lager",4,90,1.85
+"20","20","Red Dog","Miller Brewing Co.","American Adjunct Lager",4.8,802,2.04
+"21","21","Coors Light","Coors Brewing Company (Molson-Coors)","Light Lager",4.2,5742,2.06
+"22","22","Keystone Ice","Molson Coors Canada","American Adjunct Lager",5.5,53,1.72
+"23","23","O'Doul's","Anheuser-Busch","Low-Alcohol Beer",0.5,668,2.04
+"24","24","Budweiser Select","Anheuser-Busch","Light Lager",4.3,1362,2.08
+"25","25","Busch Beer","Anheuser-Busch","American Adjunct Lager",4.3,1931,2.09
+"26","26","Icehouse","Miller Brewing Co.","American Adjunct Lager",5.5,1370,2.09
+"27","27","Hurricane Malt Liquor","Anheuser-Busch","Malt Liquor",6,259,2.04
+"28","28","King Cobra Premium Malt Liquor","Anheuser-Busch","Malt Liquor",6,595,2.12
+"29","29","Bud Light Lime-A-Rita","Anheuser-Busch","Malt Liquor",8,761,2.13
+"30","30","Olde English 800","Miller Brewing Co.","Malt Liquor",5.9,1168,2.14
+"31","31","Milwaukee's Best Ice","Miller Brewing Co.","American Adjunct Lager",5.9,766,2.15
+"32","32","Bud Light Lime","Anheuser-Busch","Light Lager",4.2,2732,2.19
+"33","33","Budweiser & Clamato Chelada","Anheuser-Busch","Fruit and Field Beer",5,363,2.16
+"34","34","Michelob Light","Anheuser-Busch","Light Lager",4.3,922,2.2
+"35","35","Lucky Lager","Labatt Brewing Company Ltd.","American Adjunct Lager",5,121,2.08
+"36","36","Old Milwaukee Ice","Pabst Brewing Company","American Adjunct Lager",5.9,91,2.06
+"37","37","Miller Lite","Miller Brewing Co.","Light Lager",4.17,5143,2.24
+"38","38","Bud Light Platinum","Anheuser-Busch","American Adjunct Lager",6,2015,2.25
+"39","39","Coors Light Iced T","Coors Brewing Company (Molson-Coors)","American Adjunct Lager",4,55,1.97
+"40","40","Stroh's Light","Pabst Brewing Company","Light Lager",3.82,102,2.11
+"41","41","Colt 45 Malt Liquor","Pabst Brewing Company","Malt Liquor",5.61,995,2.28
+"42","42","Amsterdam Maximator","Grolsch Bierbrouwerij N.V.","Doppelbock",11.6,46,1.95
+"43","43","Labatt Blue Light","Labatt Brewing Company Ltd.","Light Lager",4,714,2.28
+"44","44","St. Ides High Gravity Malt Liquor","Saint Ides Brewing Company","Malt Liquor",8.2,220,2.23
+"45","45","Old Milwaukee","Sleeman Breweries Ltd.","American Adjunct Lager",5,99,2.15
+"46","46","Jaguar High Gravity Lager","Melanie Brewing Company","Malt Liquor",8.3,22,1.6
+"47","47","Beck's Light","Brauerei Beck & Co.","Light Lager",NA,154,2.22
+"48","48","Bud Light Lime Straw-Ber-Rita","Anheuser-Busch","Malt Liquor",8,480,2.29
+"49","49","Miller Genuine Draft","Miller Brewing Co.","American Adjunct Lager",4.66,2701,2.32
+"50","50","Tecate Light","Cervecería Cuauhtémoc Moctezuma, S.A. de C.V.","Light Lager",3.9,347,2.31
+"51","51","Coors Non-Alcoholic","Coors Brewing Company (Molson-Coors)","Low-Alcohol Beer",0.5,98,2.2
+"52","52","Kirin Light Beer","Kirin Brewery Company, Limited","Light Lager",3.2,229,2.3
+"53","53","Carlton Draught","Carlton & United Breweries, Ltd.","American Adjunct Lager",4.6,104,2.22
+"54","54","O'Doul's Amber","Anheuser-Busch","Low-Alcohol Beer",0.5,293,2.32
+"55","55","Corona Extra","Grupo Modelo S.A. de C.V.","American Adjunct Lager",4.6,5630,2.37
+"56","56","Budweiser","Anheuser-Busch","American Adjunct Lager",5,6981,2.38
+"57","57","Pacifico Light","Grupo Modelo S.A. de C.V.","American Adjunct Lager",4.5,59,2.13
+"58","58","Camo Silver Ice","Camo Brewing Company","Malt Liquor",10.6,73,2.18
+"59","59","Heineken Premium Light Lager","Heineken Nederland B.V.","Light Lager",3.3,1062,2.38
+"60","60","Modelo Light","Grupo Modelo S.A. de C.V.","Light Lager",2.9,79,2.21
+"61","61","Desperados","Heineken Nederland B.V.","Malt Liquor",5.9,298,2.35
+"62","62","Boxer Lager","Minhas Craft Brewery","American Adjunct Lager",5,135,2.29
+"63","63","Busch NA","Anheuser-Busch","Low-Alcohol Beer",0.5,117,2.28
+"64","64","Black Label Beer","Pabst Brewing Company","American Adjunct Lager",4,176,2.33
+"65","65","Michelob Ultra Amber","Anheuser-Busch","Light Lager",4,398,2.38
+"66","66","Kirin Lager","Kirin Brewery Company, Limited","Japanese Rice Lager",4.9,313,2.37
+"67","67","Crown Lager","Crown Beverages","American Adjunct Lager",4.9,87,2.25
+"68","68","Stack 101 High Gravity Smooth Lager","United Brands Company","Malt Liquor",9.9,66,2.2
+"69","69","Pale Ale","New Planet Beer Company","American Pale Ale",6.4,50,2.13
+"70","70","Old Milwaukee Beer","Pabst Brewing Company","American Adjunct Lager",4.6,907,2.41
+"71","71","Four O Street Legal Malt Liquor","Copper Mountain Beverage Company","Malt Liquor",10,26,1.87
+"72","72","Steel Reserve 211 (High Gravity)","Miller Brewing Co.","Malt Liquor",8.1,1433,2.43
+"73","73","Cantina","World Brews","American Adjunct Lager",4.6,40,2.08
+"74","74","Milwaukee Special Reserve Ice","Melanie Brewing Company","American Adjunct Lager",5.9,40,2.08
+"75","75","Brahma","Companhia Cervejaria Brahma","American Adjunct Lager",4.6,272,2.39
+"76","76","Faxe Extra Strong","Royal Unibrew A/S","European Strong Lager",10,137,2.35
+"77","77","St. Pauli N. A.","St. Pauli Brauerei C.L. Wilh. Brandt Gmbh & Co.","Low-Alcohol Beer",0.5,185,2.38
+"78","78","Skol","Cervejarias Reunidas Skol-Caracu","American Adjunct Lager",4.7,142,2.36
+"79","79","Pabst Blue Ribbon (Canada)","Sleeman Breweries Ltd.","American Adjunct Lager",4.9,116,2.34
+"80","80","OB Lager Beer","Oriental Brewery Co., Ltd","American Adjunct Lager",4.5,134,2.36
+"81","81","Michelob Golden Draft Light","Anheuser-Busch","Light Lager",4.1,340,2.43
+"82","82","Camo 900 High Gravity Lager","Camo Brewing Company","Malt Liquor",10.5,18,1.69
+"83","83","Amstel Light","Amstel Brouwerij B. V.","Light Lager",3.5,1670,2.47
+"84","84","Max","Hite Brewery Company LTD","American Adjunct Lager",4.5,43,2.15
+"85","85","Schlitz Bull Ice I.M.L.","Pabst Brewing Company","Malt Liquor",8.2,77,2.3
+"86","86","Famosa (Gallo)","Cervecería Centro Americana, S.A.","American Adjunct Lager",5,313,2.44
+"87","87","Victoria Bitter (VB)","Carlton & United Breweries, Ltd.","American Adjunct Lager",4.9,356,2.45
+"88","88","Carlton Midstrength","Carlton & United Breweries, Ltd.","Light Lager",3,41,2.15
+"89","89","Sol","Cervecería Cuauhtémoc Moctezuma, S.A. de C.V.","American Adjunct Lager",4.5,1584,2.49
+"90","90","Budweiser 66","Anheuser-Busch","Light Lager",4,17,1.7
+"91","91","Molson Canadian 6.0 Cold Shots","Molson Coors Canada","American Adjunct Lager",6,80,2.34
+"92","92","Icehouse Edge","Miller Brewing Co.","Malt Liquor",8,188,2.44
+"93","93","Cass Fresh","Oriental Brewery Co., Ltd","American Adjunct Lager",4.5,208,2.45
+"94","94","Hurricane High Gravity","Anheuser-Busch","Malt Liquor",8.1,421,2.49
+"95","95","Bud Light Lime Cran-Brrr-Rita","Anheuser-Busch","Malt Liquor",8,103,2.39
+"96","96","Michelob Honey Lager","Anheuser-Busch","American Amber / Red Lager",4.9,240,2.47
+"97","97","Genny Light","Genesee Brewing Co. / Dundee Brewing Co.","Light Lager",4,271,2.48
+"98","98","Carling Beer","Molson Coors Canada","American Adjunct Lager",4,90,2.38
+"99","99","Natty Daddy (8%)","Anheuser-Busch","Malt Liquor",8,420,2.5
+"100","100","Molson Dry","Molson Coors Canada","American Adjunct Lager",5.5,180,2.46
+"101","101","Michelob Ultra Infusions Lime & Prickly Pear Cactus","Anheuser-Busch","Light Lager",4,345,2.5
+"102","102","Blonde Ale","New Planet Beer Company","American Blonde Ale",5,25,2
+"103","103","Lone Star Light","Pabst Brewing Company","Light Lager",3.85,101,2.41
+"104","104","Molson Ice","Molson Coors Canada","American Adjunct Lager",5.6,534,2.52
+"105","105","Extra Dry","Tooheys Brewing","American Adjunct Lager",4.4,79,2.38
+"106","106","Antarctica Pilsen","Antarctica (Companhia Brasileira De Bebidas)","American Adjunct Lager",5,61,2.33
+"107","107","Hite","Hite Brewery Company LTD","European Pale Lager",4.5,319,2.51
+"108","108","Champale Golden","Pabst Brewing Company","Malt Liquor",5.4,25,2.02
+"109","109","Lausitzer Porter","Bergquell Brauerei Löbau","Schwarzbier",4.4,41,2.23
+"110","110","Minhas Light","Minhas Craft Brewery","Light Lager",4,22,1.95
+"111","111","Blatz Beer","Pabst Brewing Company","American Adjunct Lager",4.9,259,2.51
+"112","112","Molson XXX","Molson Coors Canada","Malt Liquor",7.3,621,2.54
+"113","113","Bud Light Lime Mang-o-Rita","Anheuser-Busch","Malt Liquor",8,207,2.5
+"114","114","Old Milwaukee Light","Pabst Brewing Company","Light Lager",3.88,241,2.51
+"115","115","Foster's Lager","Foster's Group Limited","American Adjunct Lager",5,2281,2.56
+"116","116","Tecate Original","Cervecería Cuauhtémoc Moctezuma, S.A. de C.V.","American Adjunct Lager",4.5,2247,2.56
+"117","117","Mickey's","Miller Brewing Co.","Malt Liquor",5.6,1420,2.56
+"118","118","Kaliber","Guinness Ltd.","Low-Alcohol Beer",0.5,263,2.52
+"119","119","Crazy Brewski Imperial Pils","Rinkuškiai","Imperial Pilsner",15,100,2.44
+"120","120","Kronenbourg","Brasseries Kronenbourg","European Pale Lager",4.2,138,2.48
+"121","121","Carling Black Label","Molson Coors Canada","American Adjunct Lager",5,229,2.52
+"122","122","Pabst Blue Ribbon Light","Pabst Brewing Company","Light Lager",4.19,135,2.48
+"123","123","Boris Bold","Brasserie Licorne","European Strong Lager",8.6,34,2.2
+"124","124","Pure Blonde","Carlton & United Breweries, Ltd.","Light Lager",4.6,63,2.38
+"125","125","Golden Eagle Beer","Mohan Breweries & Distilleries Ltd","American Adjunct Lager",4.8,50,2.33
+"126","126","Iron City Beer","Pittsburgh Brewing Co.","American Adjunct Lager",4.7,600,2.57
+"127","127","Molson Canadian Light","Molson Coors Canada","Light Lager",4,156,2.51
+"128","128","Molson Canadian Ice","Molson Coors Canada","American Adjunct Lager",5.5,83,2.44
+"129","129","Schaefer Light","F & M Schaefer Brewing Co.","Light Lager",NA,58,2.38
+"130","130","Lone Star Beer","Pabst Brewing Company","American Adjunct Lager",4.65,949,2.59
+"131","131","Light Beer","Kirkland Signature / Costco Wholesale Corporation","Light Lager",4.2,124,2.5
+"132","132","Taiwan Beer","Taiwan Tobacco & Liquor Corporation","Japanese Rice Lager",4.5,152,2.52
+"133","133","Red Stripe Light","Desnoes & Geddes Limited","Light Lager",3.6,167,2.53
+"134","134","I.C. Light","Pittsburgh Brewing Co.","Light Lager",4.15,263,2.56
+"135","135","XXXX Gold","Castlemaine Perkins","American Adjunct Lager",3.5,99,2.48
+"136","136","San Mig Light","San Miguel Brewery Inc.","Light Lager",5,126,2.51
+"137","137","Castle Lager","South African Breweries plc","American Adjunct Lager",5,170,2.54
+"138","138","New","Tooheys Brewing","American Adjunct Lager",4.6,186,2.55
+"139","139","Schmidt","Pabst Brewing Company","American Adjunct Lager",4.4,186,2.55
+"140","140","Tsingtao Pure Draft","Tsingtao Brewery Co., Ltd.","American Adjunct Lager",4.8,90,2.48
+"141","141","Rolling Rock Extra Pale","Latrobe Brewing Co.","American Adjunct Lager",4.4,3244,2.62
+"142","142","Labatt Max Ice","Labatt Brewing Company Ltd.","Malt Liquor",8,110,2.51
+"143","143","Kokanee","Columbia Brewery","American Adjunct Lager",5,229,2.57
+"144","144","Genesee Ice Beer","Genesee Brewing Co. / Dundee Brewing Co.","American Adjunct Lager",5.5,218,2.57
+"145","145","Coors Extra Gold","Coors Brewing Company (Molson-Coors)","American Adjunct Lager",5,329,2.59
+"146","146","Camo Black Extra","Camo Brewing Company","Malt Liquor",12.2,36,2.28
+"147","147","The Legendary Duff Beer","DUFF Sales & Marketing E.K.","German Pilsner",4.9,66,2.44
+"148","148","Redbridge","Anheuser-Busch","American Amber / Red Lager",4,557,2.61
+"149","149","Palma Louca Pale Pilsner","Cervejaria Kaiser","German Pilsner",4.5,279,2.59
+"150","150","Yanjing Beer","Beijing Yanjing Beer Group Corporation","European Pale Lager",4.7,261,2.59
+"151","151","Beck's Non-Alcoholic","Brauerei Beck & Co.","Low-Alcohol Beer",0.5,141,2.55
+"152","152","Bavaria 8.6 Original","Swinkels Family Brewers","European Strong Lager",7.9,167,2.57
+"153","153","Landshark Lager","Margaritaville Brewing Co.","American Adjunct Lager",4.6,2080,2.65
+"154","154","Alexander Keith's India Pale Ale","Alexander Keith's","American Blonde Ale",5,707,2.64
+"155","155","Mountain Crest Classic Lager Beer","Minhas Craft Brewery","American Adjunct Lager",5.5,48,2.4
+"156","156","Labatt Blue Light Lime","Labatt Brewing Company Ltd.","Light Lager",4,114,2.55
+"157","157","Stroh's","Pabst Brewing Company","American Adjunct Lager",4.5,665,2.64
+"158","158","Michelob Golden Draft","Anheuser-Busch","American Adjunct Lager",4.7,150,2.58
+"159","159","Amnesia IPA","Indian Wells Brewing Company","American IPA",7.2,109,2.55
+"160","160","Coors Banquet","Coors Brewing Company (Molson-Coors)","American Adjunct Lager",5,3405,2.66
+"161","161","Old Milwaukee Non Alcoholic","Pabst Brewing Company","Low-Alcohol Beer",0.4,67,2.48
+"162","162","Amstel Lager","Amstel Brouwerij B. V.","European Pale Lager",5,427,2.64
+"163","163","Hahn Premium Light","Hahn Brewing Co. Pty. Ltd.","Light Lager",2.7,34,2.31
+"164","164","Buckler Non-Alcoholic Brew","Heineken Nederland B.V.","Low-Alcohol Beer",0.5,173,2.6
+"165","165","Skol Beer","Turk Tuborg Brewing and Malting","European Pale Lager",4.8,45,2.4
+"166","166","Melbourne Bitter","Carlton & United Breweries, Ltd.","American Adjunct Lager",4.6,55,2.45
+"167","167","Brahma Chopp","Companhia Cervejaria Brahma","American Adjunct Lager",5,99,2.55
+"168","168","Presidente Light","Cervecería Nacional Dominicana","Light Lager",4.2,141,2.59
+"169","169","Bière Du Démon","Brassierie Goulant","European Strong Lager",12,95,2.55
+"170","170","Schaefer","F & M Schaefer Brewing Co.","American Adjunct Lager",4.6,298,2.64
+"171","171","Natty Daddy (6%)","Anheuser-Busch","American Adjunct Lager",6,12,1.67
+"172","172","Kalik","Commonwealth Brewery Ltd.","American Adjunct Lager",5,370,2.65
+"173","173","Flathead Cherry Ale","Glacier Brewing Company","Fruit and Field Beer",5.5,20,2.08
+"174","174","333 Premium Export Beer","Saigon Beer Company","American Adjunct Lager",5.3,73,2.52
+"175","175","Hahn Super Dry","Hahn Brewing Co. Pty. Ltd.","American Adjunct Lager",4.6,51,2.45
+"176","176","Old Style Light","Pabst Brewing Company","Light Lager",4.12,82,2.54
+"177","177","Boxer Ice","Minhas Craft Brewery","American Adjunct Lager",5.5,38,2.37
+"178","178","Royal Challenge Indian Premium Lager","Shaw Wallace & Company Ltd.","American Adjunct Lager",5,38,2.37
+"179","179","Sapporo Light Beer","Sapporo Breweries Ltd.","Light Lager",3.9,93,2.56
+"180","180","San Miguel Especial","San Miguel Fabricas De Cervaza Y Maltas S.A.","European Pale Lager",5.4,197,2.63
+"181","181","Carling Lager","Molson Coors Canada","American Adjunct Lager",4.9,46,2.43
+"182","182","Labatt Blue","Labatt Brewing Company Ltd.","American Adjunct Lager",5,2316,2.69
+"183","183","Old Monk 10000","Mohan Breweries & Distilleries Ltd","Malt Liquor",8,93,2.57
+"184","184","Pink Killer","Brasserie de Silly S.A.","Fruit and Field Beer",5,134,2.61
+"185","185","Maclay's Traditional Pale Ale","Sleeman Breweries Ltd.","English Pale Ale",5,70,2.53
+"186","186","Green's Discovery Amber Ale","Green's Gluten Free Beers","Extra Special / Strong Bitter (ESB)",6,66,2.52
+"187","187","Gallo Draft","Cervecería Centro Americana, S.A.","Light Lager",4.4,29,2.29
+"188","188","Yanjing 11º Premium","Beijing Yanjing Beer Group Corporation","American Adjunct Lager",4.5,25,2.23
+"189","189","Red Horse Beer: Extra Strong","San Miguel Brewery Inc.","Malt Liquor",6.9,139,2.62
+"190","190","Cisk XS Extra Lager","Simonds Farsons Cisk Plc.","European Strong Lager",9,21,2.14
+"191","191","Labatt Ice","Labatt Brewing Company Ltd.","American Adjunct Lager",5.6,252,2.66
+"192","192","Genesee Beer","Genesee Brewing Co. / Dundee Brewing Co.","American Adjunct Lager",4.5,692,2.69
+"193","193","Taj Mahal Premium Lager","United Breweries - UB Group","American Adjunct Lager",4.5,582,2.69
+"194","194","Hell On High Quad Bock","Rinkuškiai","Doppelbock",14,84,2.57
+"195","195","Crazy Stallion","City Brewing Company, LLC","Malt Liquor",5.9,84,2.57
+"196","196","Quilmes","Cervecería y Maltería Quilmes / Grupo Bemberg","European Pale Lager",4.9,548,2.69
+"197","197","Lucky Buddha Enlightened Beer","The Lucky Drink Company","Japanese Rice Lager",4.8,787,2.7
+"198","198","Cobra","United Breweries - UB Group","American Adjunct Lager",5,76,2.56
+"199","199","Schlitz O.M.L. (Malt Liquor)","Pabst Brewing Company","Malt Liquor",5.9,211,2.66
+"200","200","XXXX Bitter","Castlemaine Perkins","American Adjunct Lager",4.4,75,2.56
+"201","201","I.C. Light Mango","Pittsburgh Brewing Co.","Light Lager",3.8,74,2.56
+"202","202","Burleigh Bighead","Burleigh Brewing Co.","Light Lager",4.2,24,2.23
+"203","203","Boris (Le Flacon D'Alsace)","Brasserie Licorne","European Pale Lager",5.5,90,2.59
+"204","204","Boatswain Double IPA (Twin Screw Steamer)","Minhas Craft Brewery","Imperial IPA",8.4,554,2.7
+"205","205","Boatswain American IPA","Minhas Craft Brewery","American IPA",6.7,359,2.69
+"206","206","Tsingtao Beer – Icy Smooth","Taiwan Tsing Beer Co., Ltd.","American Adjunct Lager",4.5,20,2.14
+"207","207","Grolsch Krachtig Kanon","Grolsch Bierbrouwerij N.V.","European Strong Lager",11.6,66,2.55
+"208","208","Becks's Vier","Brauerei Beck & Co.","European Pale Lager",4,38,2.42
+"209","209","Imperial Jack","Rhinelander Brewing Company","Imperial IPA",8.5,202,2.67
+"210","210","Special Brew","Carlsberg Danmark A/S","European Strong Lager",9,51,2.5
+"211","211","Carta Blanca","Cervecería Cuauhtémoc Moctezuma, S.A. de C.V.","American Adjunct Lager",4.5,625,2.71
+"212","212","Tiger Beer","Asia Pacific Breweries Limited","European Pale Lager",5,1199,2.72
+"213","213","Lost Lake Naturally Brewed Pilsner","Melanie Brewing Company","American Lager",4.2,52,2.51
+"214","214","Oculto","Anheuser-Busch","Fruit and Field Beer",6,477,2.71
+"215","215","Sleeman Silver Creek Lager","Sleeman Breweries Ltd.","American Lager",5,86,2.6
+"216","216","Angkor Beer","Cambrew / Angkor Brewery","American Adjunct Lager",5,70,2.57
+"217","217","Amsterdam Navigator 8,4","Grolsch Bierbrouwerij N.V.","European Strong Lager",8.4,42,2.46
+"218","218","Modelo Especial Chelada","Grupo Modelo S.A. de C.V.","Fruit and Field Beer",3.5,150,2.66
+"219","219","Bergenbier","Bergenbier SA","European Pale Lager",5,34,2.4
+"220","220","Laker Ice Premium Lager","Waterloo Brewing","American Adjunct Lager",5.5,33,2.39
+"221","221","Heineken Lager Beer","Heineken Nederland B.V.","European Pale Lager",5,5731,2.74
+"222","222","Miller High Life","Miller Brewing Co.","American Adjunct Lager",4.6,4342,2.74
+"223","223","Ichnusa","Heineken Italia SpA","European Pale Lager",4.7,66,2.57
+"224","224","Kirin Ichiban","Kirin Brewery Company, Limited","American Lager",5,2135,2.74
+"225","225","Bud Light Lime Apple-Ahhh-Rita","Anheuser-Busch","Malt Liquor",8,69,2.58
+"226","226","Hoegaarden Citron","Brouwerij van Hoegaarden","Fruit and Field Beer",3,34,2.41
+"227","227","Chill Caribbean Beer","Brouwerij Nacional Balashi","European Pale Lager",5,61,2.56
+"228","228","Finkbräu Pilsener","Oettinger Brauerei GmbH","German Pilsner",4.9,32,2.39
+"229","229","Polar Pilsen","Cervecería Polar","European Pale Lager",4.5,167,2.68
+"230","230","Tennent's Super Strong Lager","Tennent Caledonian Breweries","European Strong Lager",9,82,2.61
+"231","231","Moosehead Light","Moosehead Breweries Ltd.","Light Lager",4,88,2.62
+"232","232","Redd's Apple Ale","Miller Brewing Co.","Fruit and Field Beer",5,1131,2.74
+"233","233","Birra Peroni","Birra Peroni Industriale S.p.A.","American Adjunct Lager",4.7,481,2.73
+"234","234","Dos Equis Special Lager","Cervecería Cuauhtémoc Moctezuma, S.A. de C.V.","American Adjunct Lager",4.2,3018,2.75
+"235","235","Mythos Hellenic Lager Beer","Mythos Breweries S.A.","European Pale Lager",4.7,799,2.74
+"236","236","Cerveza Pacifico Clara","Grupo Modelo S.A. de C.V.","American Adjunct Lager",4.5,2298,2.75
+"237","237","Carib Ginger Shandy","Carib Brewery Limited","Herb and Spice Beer",1.2,35,2.43
+"238","238","Molson Golden","Molson Coors Canada","American Adjunct Lager",5,706,2.74
+"239","239","Bud Light Lime Peach-A-Rita","Anheuser-Busch","Malt Liquor",8,26,2.32
+"240","240","Amigos","Global Brands Ltd.","American Lager",5.5,19,2.16
+"241","241","Bir Bintang Pilsner","Bintang","American Adjunct Lager",4.7,162,2.69
+"242","242","Old German","Pittsburgh Brewing Co.","American Adjunct Lager",4.2,140,2.68
+"243","243","Cruzcampo Pilsener","Grupo Cruzcampo SA","German Pilsner",4.8,120,2.67
+"244","244","Cerveza Aguila","Cervecería De Barranquilla","American Adjunct Lager",4,176,2.7
+"245","245","Tuborg Pilsner Beer (Green / Grøn)","Tuborgs Bryggerier A/S","European Pale Lager",4.6,326,2.73
+"246","246","Cerveza Cristal","Cerveceria Bucanero S.A.","American Adjunct Lager",4.9,124,2.68
+"247","247","Earthquake High Gravity Lager (10%)","City Brewing Company, LLC","Malt Liquor",10,74,2.62
+"248","248","Bali Hai Premium","PT Bali Hai Brewery Indonesia","American Adjunct Lager",5,36,2.46
+"249","249","Presidente","Cervecería Nacional Dominicana","American Adjunct Lager",5,901,2.76
+"250","250","Grain Belt Premium Light","August Schell Brewing Company","Light Lager",3.9,50,2.55
