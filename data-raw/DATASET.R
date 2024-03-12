@@ -1,22 +1,14 @@
 library(tidyverse)
-DiscGolf <-
-  readr::read_csv("pdga-approved-disc-golf-discs_2020-10-04T15-02-04.csv") |>
-  janitor::clean_names() |>
-  mutate(
-    model = iconv(disc_model, "latin1", "ASCII", sub = ""),
-    approved_date = lubridate::mdy(approved_date)
-  ) |>
-  rename(
-    diameter = diameter_cm,
-    flexibility = flexibility_kg,
-    height = height_cm,
-    manufacturer = manufacturer_distributor,
-    rim_depth = rim_depth_cm,
-    rim_thickness = rim_thickness_cm,
-    weight = max_weight_gr
-  ) %>%
-  select(
-    approved_date, class, diameter, flexibility, height,
-    manufacturer, model, rim_depth, rim_thickness, weight
-  )
-usethis::use_data(DiscGolf)
+
+setwd("/Users/jaredgd/Documents/GitHub/CraftCans/data-raw/Beer_data")
+
+Best_beers <- readr::read_csv("best_beer_data.csv")
+Worst_beers <- readr::read_csv("worst_beer_data.csv")
+Most_pop_beers <- readr::read_csv("mostpop_beer_data.csv")
+#  janitor::clean_names() |>
+
+setwd("/Users/jaredgd/Documents/GitHub/CraftCans/data")
+
+usethis::use_data(Best_beers)
+usethis::use_data(Worst_beers)
+usethis::use_data(Most_pop_beers)
