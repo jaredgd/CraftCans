@@ -1,4 +1,4 @@
-#' Beers from beeradvocate.com
+#' Most popular beers from beeradvocate.com
 #'
 #' This package contains beer ratings and metadata for beers with the most ratings on beeradvocate.com
 #' @docType package
@@ -8,11 +8,11 @@ NULL
 
 #' "CraftCans"
 #'
-#' A data set containing golf discs approved by
-#' the Professional Disc Golf Association
+#' A data set containing the most popular beers
+#' on beeradvocate.com
 #' as of February, 2024
 #'
-#' @source \url{https://www.beeradvocate.com}
+#' @source \url{https://www.beeradvocate.com/beer/popular/}
 #' @format A dataframe with 250 elements
 #' \describe{
 #'   \item{rank}{Ranking based on user ratings}
