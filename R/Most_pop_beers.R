@@ -1,6 +1,6 @@
 #' Beers from beeradvocate.com
 #'
-#' This package contains beer ratings and metadata for the top rated beers on beeradvocate.com
+#' This package contains beer ratings and metadata for beers with the most ratings on beeradvocate.com
 #' @docType package
 #' @name CraftCans
 #' @aliases CraftCans CraftCans-package
@@ -10,7 +10,7 @@ NULL
 #'
 #' A data set containing golf discs approved by
 #' the Professional Disc Golf Association
-#' as of October, 2020
+#' as of February, 2024
 #'
 #' @source \url{https://www.beeradvocate.com}
 #' @format A dataframe with 250 elements
