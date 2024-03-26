@@ -1,14 +1,14 @@
-Package: DiscGolf
-Title: Flying objects officially approved for use in competition
+Package: CraftCans
+Title: Popular beers along with type and brewery as well as user ratings per beeradvocate.com
 Version: 0.1.0
 Authors@R: 
-    person(given = "Nicholas",
-           family = "Horton",
+    person(given = "Jared",
+           family = "Gracia-David",
            role = c("aut", "cre"),
-           email = "nhorton@amherst.edu",
-           comment = c(ORCID = "0000-0003-3332-4311"))
-Description: This is a sample Data Package from Amherst College STAT495.
-  It provides access to some flying discs.
+           email = "j@amherst.edu",
+           comment = c(ORCID = "0000"))
+Description: This is a sample Data Package from Amherst College STAT-231.
+  It provides access to data on popular beers from around the world.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
@@ -16,8 +16,8 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Depends: 
     R (>= 2.10)
-URL: https://github.com/nicholasjhorton/DiscGolf
-BugReports: https://github.com/nicholasjhorton/DiscGolf/issues
+URL: https://github.com/jaredgd/CraftCans
+BugReports: https://github.com/jaredgd/CraftCans/issues
 Suggests: 
     knitr,
     rmarkdown
