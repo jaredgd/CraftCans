@@ -1,6 +1,6 @@
 #' Beers from beeradvocate.com
 #'
-#' This package contains beer ratings and metadata for the top rated beers on beeradvocate.com
+#' This package contains beer ratings and metadata for the lowest rated rated beers on beeradvocate.com
 #' @docType package
 #' @name CraftCans
 #' @aliases CraftCans CraftCans-package
@@ -8,11 +8,11 @@ NULL
 
 #' "CraftCans"
 #'
-#' A data set containing golf discs approved by
-#' the Professional Disc Golf Association
-#' as of October, 2020
+#' A data set containing the lowest rated beers
+#' on beeradvocate.com
+#' as of February, 2024
 #'
-#' @source \url{https://www.beeradvocate.com}
+#' @source \url{https://www.beeradvocate.com/beer/worst/}
 #' @format A dataframe with 250 elements
 #' \describe{
 #'   \item{rank}{Ranking based on user ratings}
