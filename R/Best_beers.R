@@ -8,9 +8,9 @@ NULL
 
 #' "CraftCans"
 #'
-#' A data set containing golf discs approved by
-#' the Professional Disc Golf Association
-#' as of October, 2020
+#' A data set containing the highest rated beers
+#' on beeradvocate.com
+#' as of February, 2024
 #'
 #' @source \url{https://www.beeradvocate.com}
 #' @format A dataframe with 250 elements
